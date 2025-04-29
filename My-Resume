@@ -1,0 +1,65 @@
+!DOCTYPE HTML>
+<HTML>
+    <HEAD>
+        <TITLE>My Resume</TITLE>   
+    </HEAD>
+    <h1>Adebesin Adedapo</h1>
+    <HR/>
+   
+    <BODY>
+        <H2>Summary</H2>
+        <br>My Name is Adebesin Adedapo and i'm a web developer and a digital marketer,</br>
+        <br>i have a strong background in creating dynamic websites and driving online growth.</br>
+        <br> My goal is to combine creative design with strategic marketing,</br>
+        <br>and to help brands build a strong online presence and achieve their business objectives.</br>
+    <hr/>
+
+        <h2>Education</h2>
+        <UL>
+            <li>Basic Education: Kingdom Heritage Model School Lagos State, Nigeria</li>
+            <li>Secondary Education: Faith Academy Gowon Estate Lagos State, Nigeria</li>
+            <li>Tertiary Education: Covenant University Ogun State, Nigeria</li>
+        </UL>
+        <hr/>
+
+        <h2>Work Experience</h2>
+        <ul>
+            <li>Digital Marketer: Bellagio Air</li>
+        </ul>
+        <hr/>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>Web designing</li>
+            <li>Content creation</li>
+            <li>content marketing</li>
+            <li>Copywriting</li>
+            <li>Analytic skills</li>
+            <li>Search engine optimization</li>
+            <li>Adevertising Skills</li>
+            <li>Social media marketing</li> 
+        </ul>
+        <HR/>
+
+        <h2>Certifications</h2>
+        <ul>
+            <li>microsoft office specialist</li>
+            <li>Comptia A+ certified</li>
+            <li>Cisco Certified Network Associate (CCNA 2)</li>
+            <li>Enterprise Networking, Security and Automation (ENSA) certified</li>
+            <li>Cisco Certified Network Associate</li>
+        </ul>
+    <hr/>
+
+        <h2>Other</h2>
+        Contact details: <a href="https://adedapodv.github.io/html-portfolio/public/contact.html">CONTACT DETAILS</a>
+        About Me: <a href="https://adedapodv.github.io/html-portfolio/public/about.html">ABOUT ME</a>
+        <HR/>
+
+        <footer>
+            <small>
+              Copyright © Adebesin Adedapo. All Rights Reserved.
+            </small>
+          </footer>
+    </BODY>
+</HTML>
